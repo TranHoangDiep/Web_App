@@ -96,7 +96,7 @@ DATABASES = {
         'NAME': 'blog',
         'USER': 'postgresql',
         'PASSWORD': '12345678',
-        'HOST': 'database.cmrpkytu2z7y.us-east-1.rds.amazonaws.com',
+        'HOST': 'database.csv2qc9xsh02.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
