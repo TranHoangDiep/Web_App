@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-c85z($-890ji64+@zc)5k()54l3if4r$5h6y%5#j*!k3whog=+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['52.221.254.46']
+ALLOWED_HOSTS = ['13.213.72.56']
 
 
 # Application definition
@@ -93,10 +93,10 @@ WSGI_APPLICATION = 'EStore.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'blog',
+        'NAME': 'servicedesk',
         'USER': 'postgres',
         'PASSWORD': '12345678',
-        'HOST': 'database.csv2qc9xsh02.us-east-1.rds.amazonaws.com',
+        'HOST': 'ddatabase.czyluuzoluj8.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
