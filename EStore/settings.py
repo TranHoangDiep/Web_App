@@ -93,13 +93,13 @@ WSGI_APPLICATION = 'EStore.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'servicedesk',
+        'NAME': 'website',
         'USER': 'postgres',
-        'PASSWORD': '12345678',
-        'HOST': 'ddatabase.czyluuzoluj8.us-east-1.rds.amazonaws.com',
+        'PASSWORD': 'cmc12345678',
+        'HOST': 'cmc-database-postgres.ce7a0jopaukz.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
-}
+}}
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
