@@ -99,8 +99,7 @@ DATABASES = {
         'HOST': 'cmc-database-postgres.ce7a0jopaukz.us-east-1.rds.amazonaws.com',
         'PORT': '5432',
     }
-}}
-
+}
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
 
